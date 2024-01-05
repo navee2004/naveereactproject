@@ -1,0 +1,123 @@
+.login-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.login-img-container{
+    width:45%;
+    overflow: hidden;
+}
+
+.login-img-container img{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.login-content-container{
+    width:50%;
+}
+
+.content-wrapper{
+    padding-right: 3rem;
+}
+
+.content-wrapper h2{
+    padding-bottom: 1rem;
+    font-size: 2rem;
+} 
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+/* .login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('../assets/img-1.jpg');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+.login-compo{
+    width: 100%;
+    display: flex;
+    height: 85vh;
+    width: 400px;
+    color: white;
+    background-color: rgb(0,0,0);  Fallback color 
+    background-color: rgba(0,0,0, 0.4);
+    z-index: 2;
+    border-radius: 8px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);  
+}
+.login-box{
+    display: flex;
+    justify-content: center;
+    margin-left: 5%; 
+}
+
+.login-form h2{
+    margin-top: 130px;
+    margin-bottom: 2px;
+    letter-spacing: 2px;
+    text-align: center;
+
+}
+
+.textt-1{
+    margin-top: 8px;
+    margin-bottom: 10px;
+    letter-spacing: 8px;
+    text-align: center;
+}
+.form {
+    width: 250px;
+    margin: 15px 65px;
+    border-radius: 8px;
+    
+  }
+#hr123{
+    margin: 5px;
+    margin: 0 45px;
+    padding-left: 85px;
+    border-top: 2px solid rgba(168, 52, 31, 0.777);
+  }
+    
+#label{
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 5px;
+  }
+
+  #outlined-basic{
+    width: 100%;
+    height: 0.1px;
+
+  }
+#button {
+    border: none;
+    outline: none;
+    padding: 8px;
+    margin-left: 30px;
+    width: 150px;
+    font-size: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+    background: rgb(5, 103, 133) ;
+  }
+#check-the-login{
+  margin: 20px;
+  padding-top: 10px;
+}
+#check-the-signup {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  } */

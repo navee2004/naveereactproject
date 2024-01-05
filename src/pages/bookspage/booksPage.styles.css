@@ -1,0 +1,57 @@
+.search-container{
+    width: 40%;
+    margin: auto;
+    padding-top: 5%;
+}
+
+.search-container h2{
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.category-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5vh;
+}
+
+/* home.css */
+
+ .hom {
+    /* background-image: url('../Image/home_image1.jpg'); */
+    /* background-image: url('../Image/Home\ .jpg'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f4f4f42a;
+    /* height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+  }
+  
+  .hom h1 {
+     font-family:parsisenne; 
+     font-family:Noelan;
+    color: #011b1a; /* You can choose your desired color */
+     font-size: 90px;
+  
+  } 
+  .homeimage
+  {
+   /* background-image: url('../Image/main_image.jpg')   ;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover; */
+   margin-top: -30px;
+   width: 1000px;
+   background-size: cover;
+  }
+/* .card1
+{
+   margin-bottom: 20%;
+   padding-bottom: 10%;
+   /* padding-top: 10%; */
+   
+
+/* }  */    
